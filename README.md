@@ -1,2 +1,2 @@
 # cs231n
-My stanford cs231n assignments
+My stanford cs231n assignments.
